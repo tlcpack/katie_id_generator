@@ -19,3 +19,11 @@ with open('nametest.csv', newline='') as csvfile:
 #         unique_id = str(unique)
 #         row += unique_id
 #         print("_".join(row))
+
+# def reverse(x):
+#     str = ''
+#     for i in x:
+#         str = i + str
+#     return str
+
+# print(reverse('Taylor'))
